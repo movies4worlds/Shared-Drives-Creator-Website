@@ -1,8 +1,8 @@
 var authConfig = {
   version: "4.5",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: 'ClientID', // Google Client ID
-  client_secret: 'ClientSecret', // Google Client Secret
+  client_id: 'ClientID', // Google Client ID297246654583-5lq4csk8eqvtl2knfeen477ujud4h81u.apps.googleusercontent.com
+  client_secret: 'ClientSecret', // Google Client SecretGOCSPX-UxPVbDyQqGQF2CJDhnxE2WXjJd_2
   domain: "! ",
   black_list: ["email@gmail.com"]
   };
@@ -14,8 +14,8 @@ var authConfig = {
   
   // Create an account at https://dashboard.hcaptcha.com/signup and fulfill all details
   var hCaptchaConfig = {
-      secret: ' ',
-      sitekey: ' '
+      secret: '0x8aC92325d6E98280ACa4981F33F6680216E17956 ',
+      sitekey: '98340a14-9ca5-4bc9-a348-e0323615b70f '
   };
   
   
@@ -584,7 +584,7 @@ var authConfig = {
   
   
   
-      </style>
+      </style>1//04bieTpo8IpLOCgYIARAAGAQSNwF-L9Ir5lPnz3DFi2imt1QfjN_6bFNnNMat2cPpKOVrzyjnfC-gu8F9OhvihPTN33T6BbVU-hE
   </head>
   
   
@@ -708,8 +708,8 @@ var authConfig = {
                   </div>
                   <!-- Telegram Channel & Chat buttons -->
                   <div class="btntlg">
-                      <a class="btn btn-danger btn-sm btn-lg round" href="https://www.t.me/msgsuite" target="_blank" role="button">Telegram Channel</a>
-                      <a class="btn btn-secondary btn-sm btn-lg round" href="https://www.t.me/msgsuitechat" target="_blank" role="button">Telegram Chat </a>
+                      <a class="btn btn-danger btn-sm btn-lg round" href="https://www.t.me/gpsupports" target="_blank" role="button">Telegram Channel</a>
+                      <a class="btn btn-secondary btn-sm btn-lg round" href="https://www.t.me/agopaltechx" target="_blank" role="button">Telegram Chat </a>
                   </div>
   
                   <!-- Status bar. You have to change the values manually -->
@@ -736,7 +736,7 @@ var authConfig = {
       <div class="aftercreation hidden">
           <p class="drivecreated">You can find your shared drive here : <a class="linkdrivecreated" href="https://drive.google.com/drive/shared-drives" target="_blank">My Shared Drives</a></p>
           <p>Thanks for using our services! To be informed about the last updates and news, follow us on Telegram.</p>
-          <a class="btn btn-secondary btn-sm btn-lg round supportbtn" href="https://www.t.me/msgsuite" target="_blank" role="button">Telegram Channel</a>
+          <a class="btn btn-secondary btn-sm btn-lg round supportbtn" href="https://www.t.me/agopaltechx" target="_blank" role="button">Telegram Channel</a>
       </div>
   </div>
   
@@ -749,7 +749,7 @@ var authConfig = {
           <button onclick="copyMyText()" class="copyerror bi bi-files"></button>
       </div>
       <p class="errorsub">Most of time, trying again solve the problem. If you don't understand the error message, please send it to the support chat. They will help you solve it.</p>    
-      <a class="btn btn-secondary btn-sm btn-lg round supportbtn" href="https://www.t.me/msgsuitechat" target="_blank" role="button">Telegram Support Chat</a>
+      <a class="btn btn-secondary btn-sm btn-lg round supportbtn" href="https://www.t.me/gopaltechx" target="_blank" role="button">Telegram Support Chat</a>
   </div>
   
   
